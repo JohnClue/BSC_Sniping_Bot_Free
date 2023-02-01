@@ -1,0 +1,12 @@
+{
+  "AMOUNT": "0.001",
+  "GAS PRICE": "25",
+  "GAS LIMIT": "200000",
+  "SLIPPAGE": "10",
+  "AUTO SLIPPAGE": "true",
+  "TP": "200",
+  "SL": "50",
+  "SL TRAIL": "25",
+  "LP": "ETH",
+  "OPL": "True"
+}

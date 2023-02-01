@@ -19,6 +19,7 @@ Enjoy and leave a star, if you like it!
 
 📦 Install
 1. Download python3.12 for your PC from python org, extract the ABI and themes zip into the folder with the bot
+2. 
 Link for download python: https://www.python.org/downloads/release/python-3120a1/
 
 2. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.

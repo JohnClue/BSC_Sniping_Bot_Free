@@ -32,11 +32,22 @@ Thanks to all the people who already contributed to making this PancakeX better!
 Detailed changes for each release:
 
 • Version v1 [release] - 4 months ago
+
 • Version v2 [fixed minor bugs, added more custom settings] - 3 months ago
+
 • Version v2.1 [commented code, new functions & more] - 3 months ago
+
 • Version v2.2 [added 9 new functions, custom settings page] - 1 month ago
+
 • Version v2.3 [fixed minor bugs] - 4 weeks ago
+
 • Version v2.4 [minor changes] - 3 weeks ago
+
 • Version v3 [global changes, added new functions, log inside the terminal, CROSSCHAIN support] - 1 week ago
+
 🔑 License
 [MIT]
+
+Author
+
+If you have any questions you can contact me via telegram: https://t.me/trading_supporters

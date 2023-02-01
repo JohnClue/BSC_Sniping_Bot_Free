@@ -1,5 +1,7 @@
 # BSC_Sniping_Bot_Free
 Sniper bot, it buys any BSC token that has been newly listed on for Pancakeswap and Uniswap.
+![success](https://user-images.githubusercontent.com/123884886/215966546-25db88e7-a605-418a-88ca-317cb576dc22.png)
+
 
 🚀 Features
 💌 Auto approve
@@ -16,6 +18,7 @@ Note: Please install a code visual tool first such as Visual Studio Code as it w
 4. Good luck with profits guys!
 💎 Successfull 40,000k snipe the other day :)
 Code preview
+![gui](https://user-images.githubusercontent.com/123884886/215966588-57696976-de2d-4e65-93b9-286411cd99bc.png)
 
 🤝 Sponsors
 PancakeX is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome backers

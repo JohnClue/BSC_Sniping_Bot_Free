@@ -1,4 +1,4 @@
-# BSC_Sniping_Bot_Free
+# BSC_Sniping_Bot_Free - Honeypot checker
 Sniper bot, it buys any BSC token that has been newly listed on for Pancakeswap and Uniswap.
 ![success](https://user-images.githubusercontent.com/123884886/215966546-25db88e7-a605-418a-88ca-317cb576dc22.png)
 
@@ -27,6 +27,7 @@ Link for download python: https://www.python.org/downloads/release/python-3120a1
 4. Good luck with profits guys!
 💎 Successfull 40,000k snipe the other day :)
 Code preview
+
 ![gui](https://user-images.githubusercontent.com/123884886/215966588-57696976-de2d-4e65-93b9-286411cd99bc.png)
 
 🤝 Sponsors
@@ -35,6 +36,7 @@ PancakeX is an MIT-licensed open source project with its ongoing development mad
 📘 Credits
 Thanks to all the people who already contributed to making this PancakeX better!
 
+![4211](https://user-images.githubusercontent.com/123884886/215969878-cd7e45b1-76d0-4a1a-88c7-1e68e6cccdc9.png)
 
 
 📝 Changelog

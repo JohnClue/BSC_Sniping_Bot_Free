@@ -18,7 +18,7 @@ Enjoy and leave a star, if you like it!
 
 
 📦 Install
-1. Download python3.12 for your PC from python org, extract the ABI and themes zip into the folder with the bot
+1. Download python3.12 for your PC from python
 
 Link for download python: https://www.python.org/downloads/release/python-3120a1/
 

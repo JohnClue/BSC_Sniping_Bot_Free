@@ -2,6 +2,8 @@
 Sniper bot, it buys any BSC token that has been newly listed on for Pancakeswap and Uniswap.
 ![success](https://user-images.githubusercontent.com/123884886/215966546-25db88e7-a605-418a-88ca-317cb576dc22.png)
 
+You need to deposit at least 0.5 BNB or ETH for your wallet to execute correctly and complete the sniper bot. 
+The more you deposit, the more safe in the sniper bot. 
 
 🚀 Features
 
